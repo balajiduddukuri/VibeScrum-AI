@@ -1,0 +1,5 @@
+{
+  "name": "VibeScrum AI",
+  "description": "A dark-themed, AI-powered Scrum board featuring Product Backlog, Sprint Planning, and Kanban views with Gemini-driven task generation, estimation, and persona-based prompts.",
+  "requestFramePermissions": []
+}
